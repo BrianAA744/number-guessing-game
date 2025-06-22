@@ -1,0 +1,1 @@
+This is a project which is a number guessing game that can be played in the web browser. This was done in python using flask as the web framework for the web browser, along with an aesthetic UI and design with CSS.
